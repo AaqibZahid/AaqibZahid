@@ -1,16 +1,23 @@
-## Hi there 👋
+<img align="left" width="220" src="https://raw.githubusercontent.com/AaqibZahid/AaqibZahid/main/assets/sigil.svg">
 
-<  !--
-**AaqibZahid/AaqibZahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aaqib Zahid
 
-Here are some ideas to get you started:
+`automation` · `deep learning` · `visual systems`
+`human–AI interfaces` · `agentic tooling`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
--->
+---
+
+<div align="center">
+
+`LLM systems` · `workflow automation` · `browser tooling` · `visual computing` · `HCI`
+
+</div>
+
+### fragments
+
+```txt
+automate the repetitive
+visualize the hidden
+compress the interface
+extend the workflow
+```
