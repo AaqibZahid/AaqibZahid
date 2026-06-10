@@ -1,23 +1,24 @@
-<img align="left" width="220" src="https://raw.githubusercontent.com/AaqibZahid/AaqibZahid/main/assets/sigil.svg">
+<img align="left" width="154" alt="animated terminal cursor" src="./assets/terminal-cursor.svg">
 
 ### Aaqib Zahid
 
-`automation` · `deep learning` · `visual systems`
-`human–AI interfaces` · `agentic tooling`
+`automation` &middot; `deep learning` &middot; `visual systems`  
+`human-AI interfaces` &middot; `agentic tooling`
+
+interfaces for intelligence and automation.
+
+<br clear="left" />
 
 ---
 
-<div align="center">
-
-`LLM systems` · `workflow automation` · `browser tooling` · `visual computing` · `HCI`
-
-</div>
-
-### fragments
+### signal
 
 ```txt
-automate the repetitive
-visualize the hidden
-compress the interface
-extend the workflow
+automation      agents, orchestration, browser workflows
+deep learning   models, representations, explanation
+interfaces      HCI, visual systems, developer tools
 ```
+
+### notes
+
+Systems that make complex workflows easier to see, shape, and automate.
