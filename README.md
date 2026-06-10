@@ -1,11 +1,11 @@
-<img align="left" width="154" alt="animated terminal cursor" src="./assets/terminal-cursor.svg">
+<img align="left" width="190" alt="rotating terminal orbit" src="./assets/terminal-orbit.gif">
 
 ### Aaqib Zahid
 
 `automation` &middot; `deep learning` &middot; `visual systems`  
 `human-AI interfaces` &middot; `agentic tooling`
 
-interfaces for intelligence and automation.
+interfaces, models, and automation.
 
 <br clear="left" />
 
