@@ -2,7 +2,6 @@
 
 ### Aaqib Zahid
 
-`automation` &middot; `deep learning` &middot; `visual systems`  
-`human-AI interfaces` &middot; `agentic tooling`
+`automations engineering` &middot; `ML/DL` &middot; `visual systems & interfaces` &middot; `tooling & orchestration`
 
 </div>
